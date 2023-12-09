@@ -1,0 +1,29 @@
+{
+  "name": "discord-bot-teacher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T0N1R/discord-bot-teacher.git"
+  },
+  "author": "T0N1R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T0N1R/discord-bot-teacher/issues"
+  },
+  "homepage": "https://github.com/T0N1R/discord-bot-teacher#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1409.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
