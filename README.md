@@ -1,5 +1,11 @@
 # Proyecto de Graduación - Componentes de Discord y AWS
 
+## Características del proyecto
+Es este programa inicializa un bot en un servidor específico con el objetivo de recolectar todo mensaje enviado al servidor y almacenar en un documento de csv (por día) todo mensaje enviado, fecha de envío, hora de envío y el número de identificación del canal del servidor donde se envió.
+
+El programa también genera una respuesta de texto o imagen al reconocer un comando específico.
+
+
 ## Diseño del Servidor de Discord
 
 ### Canales de Texto
